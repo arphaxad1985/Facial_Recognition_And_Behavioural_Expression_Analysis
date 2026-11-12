@@ -38,4 +38,11 @@ The system uses:
 
 ## 📝 Research & Citations
 
-> I have done a complete research about on AI Pioneering Ethical, Analytical and Real time Emotional Recognition in Dynamic Human Expressions, which has been published in IEEE in the journal of ICCCDSAI 2025 (DOI: 10.1109/ICDSAAI65575.2025.11011864). I have included my extended research on this topic and project which i had later upscaled it.
+> I have done a complete research about on AI Pioneering Ethical, Analytical and Real time Emotional Recognition in Dynamic Human Expressions, which has been published in IEEE in the journal of ICCCDSAI 2025 (DOI: 10.1109/ICDSAAI65575.2025.11011864). 
+
+Attribution
+
+Starter pipeline structure adapted from an open-source facial 
+expression recognition project. Model training (28,000+ images), 
+detection pipeline, and deployment implemented by Arphaxad Nguka Owange.
+
